@@ -14,7 +14,13 @@ A curated stash of always‑free dev tools—perfect for developers who’d rath
 
 *Here is the link: https://github.com/Shivansh7201/Free-Dev-Resources*
 
+3) Free OpenAI API Keys
 
+*Welcome to the Free OpenAI API Keys repository! 🎉*
+
+Here you can find a collection of free OpenAI API keys for your projects. Feel free to use them and share with others. Each key is unique and randomly generated.
+
+<img width="300" height="168" alt="download" src="https://github.com/user-attachments/assets/01b43afd-b809-45f3-ad16-f5c091d6384a" />
 
 
 
