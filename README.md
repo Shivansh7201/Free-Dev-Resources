@@ -22,5 +22,13 @@ Here you can find a collection of free OpenAI API keys for your projects. Feel f
 
 <img width="300" height="168" alt="download" src="https://github.com/user-attachments/assets/01b43afd-b809-45f3-ad16-f5c091d6384a" />
 
+4) Supercharge Any LLM's Web Research with Google AI Mode
+
+<img width="1114" height="836" alt="Screenshot 2026-03-26 161805" src="https://github.com/user-attachments/assets/a22aa8f5-1b2b-4d44-b4b9-1cad52bf5685" />
+
+Here you find the github repository for the same.
+
+https://github.com/PleasePrompto/google-ai-mode-mcp
+
 
 
