@@ -52,6 +52,12 @@ https://v0.app/templates/landing-pages
 
 https://github.com/anomalyco/opencode
 
+**6) PUTER.JS - Get your FREE API.**
+
+<img width="1919" height="923" alt="image" src="https://github.com/user-attachments/assets/182dc7e8-5898-4d92-aedf-7a244d3c0e43" />
+
+https://developer.puter.com/tutorials/free-unlimited-claude-35-sonnet-api/
+
 
 
 
