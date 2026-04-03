@@ -46,6 +46,13 @@ Explore landing page templates built with v0. Launch high-converting pages with 
 
 https://v0.app/templates/landing-pages
 
+**5) OPEN CODE - The open source coding agent.**
+
+<img width="893" height="804" alt="image" src="https://github.com/user-attachments/assets/86e122cc-112a-4039-a230-2290cacbded9" />
+
+https://github.com/anomalyco/opencode
+
+
 
 
 
