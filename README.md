@@ -58,6 +58,11 @@ https://github.com/anomalyco/opencode
 
 https://developer.puter.com/tutorials/free-unlimited-claude-35-sonnet-api/
 
+**7) Aider AI pair programming in your terminal**
+
+<img width="890" height="816" alt="Screenshot 2026-04-07 115910" src="https://github.com/user-attachments/assets/8c2cc716-0d46-4ffd-9a59-203174791482" />
+
+https://github.com/Aider-AI/aider
 
 
 
