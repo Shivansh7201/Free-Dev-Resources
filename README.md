@@ -8,11 +8,13 @@ A curated stash of always‑free dev tools—perfect for developers who’d rath
 
 *Here is the link: https://publicapis.dev/*
 
+
 **2) Free Tools for development**
 
 <img width="1902" height="912" alt="Screenshot 2026-03-03 125453" src="https://github.com/user-attachments/assets/3ef80fc6-1cec-40c4-ab0f-f2eef87dff66" />
 
 *Here is the link: https://github.com/Shivansh7201/Free-Dev-Resources*
+
 
 **3) Free OpenAI API Keys**
 
