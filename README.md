@@ -66,6 +66,13 @@ https://developer.puter.com/tutorials/free-unlimited-claude-35-sonnet-api/
 
 https://github.com/Aider-AI/aider
 
+**7) Puter.js Tutorials - Free AI API**
+
+<img width="1696" height="889" alt="image" src="https://github.com/user-attachments/assets/a5273191-55c0-4ce5-8223-49d4c9030697" />
+
+https://developer.puter.com/tutorials/
+
+
 
 
 
