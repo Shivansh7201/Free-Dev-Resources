@@ -72,7 +72,11 @@ https://github.com/Aider-AI/aider
 
 https://developer.puter.com/tutorials/
 
+**8) Free and Open Source Software (FOSS) for Android** 
 
+<img width="1105" height="553" alt="image" src="https://github.com/user-attachments/assets/f5fa5dc6-969e-4874-9ee1-0da6cf5efd32" />
+
+https://github.com/offa/android-foss
 
 
 
