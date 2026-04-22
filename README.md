@@ -78,14 +78,18 @@ https://developer.puter.com/tutorials/
 
 https://github.com/offa/android-foss
 
-**9) Free Agents promopts**
+**9) Free Agents prompts**
 
 <img width="1881" height="797" alt="image" src="https://github.com/user-attachments/assets/055dbe3c-90cf-473f-a9e2-e639c7672029" />
 
 
 https://github.com/01001101010010010100101101000101/ZeroGrav.dev
 
+**10) Claude Design DESIGN.md prompts**
 
+<img width="1089" height="544" alt="image" src="https://github.com/user-attachments/assets/7447b90a-5f14-4b1e-9bcb-339152f0c7b0" />
+
+https://github.com/rohitg00/awesome-claude-design
 
 
 
