@@ -96,13 +96,6 @@ https://github.com/rohitg00/awesome-claude-design
 
 *Here is the link: https://publicapis.dev/*
 
-
-**11) Free Swags For developers**
-
-<img width="1916" height="899" alt="image" src="https://github.com/user-attachments/assets/826259dc-a041-4ff6-a8cc-fa1ce59cbe07" />
-
-https://devswag.io/
-
 **12) Awesome Nano banana prompts**
 <img width="2000" height="1116" alt="68747470733a2f2f6d61726b6574696e672d6173736574732e796f756d696e642e636f6d2f63616d706169676e732f6e616e6f2d62616e616e612d70726f2d70726f6d7074732d6f672d68712e706e67" src="https://github.com/user-attachments/assets/eb797830-8964-4fd0-829f-453795d7af07" />
 
