@@ -90,7 +90,7 @@ https://github.com/01001101010010010100101101000101/ZeroGrav.dev
 
 https://github.com/rohitg00/awesome-claude-design
 
-**1) Free Swags For developers**
+**11) Free Swags For developers**
 
 <img width="1916" height="899" alt="image" src="https://github.com/user-attachments/assets/826259dc-a041-4ff6-a8cc-fa1ce59cbe07" />
 
