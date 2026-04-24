@@ -100,3 +100,14 @@ https://github.com/rohitg00/awesome-claude-design
 <img width="2000" height="1116" alt="68747470733a2f2f6d61726b6574696e672d6173736574732e796f756d696e642e636f6d2f63616d706169676e732f6e616e6f2d62616e616e612d70726f2d70726f6d7074732d6f672d68712e706e67" src="https://github.com/user-attachments/assets/eb797830-8964-4fd0-829f-453795d7af07" />
 
 https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts
+
+
+**13) React Transliterate**   
+
+<img width="1060" height="637" alt="image" src="https://github.com/user-attachments/assets/5b27d308-f70e-406d-8052-314ba64fcd52" />
+
+Transliteration component for React with support for over 30 languages. Burhanuddin → बुरहानुद्दीन
+
+https://github.com/burhanuday/react-transliterate
+
+
