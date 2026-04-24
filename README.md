@@ -2,11 +2,11 @@
 
 A curated stash of always‑free dev tools—perfect for developers who’d rather debug for hours than pay a dollar.
 
-**1) Free Swags For developers**
+**1) Free API's for practicing (Application Programming Interfaces)**
+   
+<img width="1880" height="897" alt="Screenshot 2026-03-03 110124" src="https://github.com/user-attachments/assets/8acb7e4e-929d-47b2-8013-d3536d4b750d" />
 
-<img width="1916" height="899" alt="image" src="https://github.com/user-attachments/assets/826259dc-a041-4ff6-a8cc-fa1ce59cbe07" />
-
-https://devswag.io/
+*Here is the link: https://publicapis.dev/*
 
 **2) Free Tools for development**
 
@@ -90,11 +90,12 @@ https://github.com/01001101010010010100101101000101/ZeroGrav.dev
 
 https://github.com/rohitg00/awesome-claude-design
 
-**11) Free API's for practicing (Application Programming Interfaces)**
-   
-<img width="1880" height="897" alt="Screenshot 2026-03-03 110124" src="https://github.com/user-attachments/assets/8acb7e4e-929d-47b2-8013-d3536d4b750d" />
+**1) Free Swags For developers**
 
-*Here is the link: https://publicapis.dev/*
+<img width="1916" height="899" alt="image" src="https://github.com/user-attachments/assets/826259dc-a041-4ff6-a8cc-fa1ce59cbe07" />
+
+https://devswag.io/
+
 
 **12) Awesome Nano banana prompts**
 <img width="2000" height="1116" alt="68747470733a2f2f6d61726b6574696e672d6173736574732e796f756d696e642e636f6d2f63616d706169676e732f6e616e6f2d62616e616e612d70726f2d70726f6d7074732d6f672d68712e706e67" src="https://github.com/user-attachments/assets/eb797830-8964-4fd0-829f-453795d7af07" />
