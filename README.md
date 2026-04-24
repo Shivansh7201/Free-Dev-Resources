@@ -104,13 +104,10 @@ https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts
 
 **13) React Transliterate**   
 
+Transliteration component for React with support for over 30 languages. Burhanuddin → बुरहानुद्दीन
 <p align="center">
 <img src="./hi.gif"></img>
 </p>
-
-<img width="1060" height="637" alt="image" src="https://github.com/user-attachments/assets/5b27d308-f70e-406d-8052-314ba64fcd52" />
-
-Transliteration component for React with support for over 30 languages. Burhanuddin → बुरहानुद्दीन
 
 https://github.com/burhanuday/react-transliterate
 
