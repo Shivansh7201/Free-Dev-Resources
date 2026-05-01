@@ -112,4 +112,10 @@ Transliteration component for React with support for over 30 languages. Burhanud
 
 https://github.com/burhanuday/react-transliterate
 
+**14) Free Swags platform swagalogue**
+
+<img width="1840" height="885" alt="image" src="https://github.com/user-attachments/assets/46bf38d0-03bc-43f6-a343-afde7f127586" />
+
+https://www.swagalogue.com/
+
 
