@@ -1,4 +1,4 @@
-**#Free-Dev-Resources**
+<img width="1855" height="884" alt="image" src="https://github.com/user-attachments/assets/5cb58943-a818-4452-8631-05dfbc37e32c" />**#Free-Dev-Resources**
 
 A curated stash of always‑free dev tools—perfect for developers who’d rather debug for hours than pay a dollar.
 
@@ -116,5 +116,11 @@ https://github.com/burhanuday/react-transliterate
 <img width="1840" height="885" alt="image" src="https://github.com/user-attachments/assets/46bf38d0-03bc-43f6-a343-afde7f127586" />
 
 https://www.swagalogue.com/
+
+**15) Free Swags Platform**
+
+<img width="1855" height="884" alt="image" src="https://github.com/user-attachments/assets/53f34e0f-8f15-4dac-b76a-cd88a5b6b551" />
+
+https://swagsy.qopo.app/
 
 
