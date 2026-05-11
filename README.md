@@ -1,4 +1,4 @@
-<img width="1855" height="884" alt="image" src="https://github.com/user-attachments/assets/5cb58943-a818-4452-8631-05dfbc37e32c" />**#Free-Dev-Resources**
+**#Free-Dev-Resources**
 
 A curated stash of always‑free dev tools—perfect for developers who’d rather debug for hours than pay a dollar.
 
