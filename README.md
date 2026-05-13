@@ -1,4 +1,4 @@
-**#Free-Dev-Resources**
+<h1>**Free-Dev-Resources**</h1>
 
 A curated stash of always‑free dev tools—perfect for developers who’d rather debug for hours than pay a dollar.
 
