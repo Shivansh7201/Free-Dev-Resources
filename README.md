@@ -8,6 +8,10 @@ A curated stash of always‑free dev tools—perfect for developers who’d rath
 
 *Here is the link: https://publicapis.dev/*
 
+<img width="1878" height="902" alt="image" src="https://github.com/user-attachments/assets/a2ac495e-6dca-408d-a75b-c64e159fde0f" />
+
+https://publicapis.io/
+
 **2) Free Tools for Development **
 
 <img width="1902" height="912" alt="Screenshot 2026-03-03 125453" src="https://github.com/user-attachments/assets/3ef80fc6-1cec-40c4-ab0f-f2eef87dff66" />
